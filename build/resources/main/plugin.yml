@@ -1,0 +1,4 @@
+name: FloruitClearLagg
+version: '1.0-SNAPSHOT'
+main: com.hanielcota.floruitclearlagg.FloruitClearLagPlugin
+api-version: '1.21'

@@ -1,0 +1,14 @@
+# Intervalo em segundos para limpar os itens (default: 10 minutos)
+clear-interval-seconds: 600
+
+# Tempos de aviso em segundos antes da limpeza
+warning-times-seconds:
+  - 60  # 1 minuto
+  - 30  # 30 segundos
+  - 10  # 10 segundos
+
+# Mensagens personalizáveis
+messages:
+  warning: "§eItems will be removed in {seconds} seconds!"
+  clear: "§a{amount} items were removed!"
+  no-items: "§aNo items were found to remove!"
